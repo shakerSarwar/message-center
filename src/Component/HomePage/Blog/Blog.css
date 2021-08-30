@@ -1,0 +1,6 @@
+.blog-card img {
+  height: 300px;
+}
+.blog-card {
+  cursor: pointer;
+}

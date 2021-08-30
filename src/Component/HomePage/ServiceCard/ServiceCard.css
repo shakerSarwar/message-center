@@ -1,0 +1,13 @@
+.service-image {
+  height: 160px;
+  width: 40%;
+  margin: 0 auto;
+}
+.service-card {
+  transition: all 0.3s ease-in-out;
+}
+.service-card:hover {
+  transform: scale(1.1);
+  background: #d9456c;
+  color: white;
+}

@@ -1,0 +1,9 @@
+.status-box {
+  background: none;
+}
+.status-box:focus,
+.status-box:active,
+.status-box,
+.status-box::selection {
+  border: none;
+}

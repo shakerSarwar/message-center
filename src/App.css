@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Mr+De+Haviland&family=Raleway:wght@300;400;500;600;700&display=swap');
+
+.custom-button-background{
+    background-color: #F9A392 !important;
+}
+.custom-color{
+    color: #F9A392 !important;
+}
+.custom-height-100{
+    height: 100%;
+}
+
+.addAdmin,.booking-page, .booking-list,.admin-order-list, .wlcomePage,.book-page{
+    background-color: #F4F7FC;
+    min-height: 100vh;
+}
+.font-size-18{
+    font-size: 18px;
+}

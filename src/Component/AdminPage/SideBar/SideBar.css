@@ -1,0 +1,30 @@
+.sidebar {
+  position: fixed;
+  height: 100vh;
+  top: 0;
+  width: 20%;
+  z-index: 100;
+}
+.sidebar li {
+  margin-bottom: 2em;
+}
+.sidebar a {
+  color: gray;
+  font-weight: 600;
+}
+.sidebar li:hover span {
+  display: inline-block;
+  transform: translate(5px);
+}
+.sidebar svg {
+  margin-right: 5px;
+}
+a:hover {
+  text-decoration: none;
+}
+.logOut-button {
+  border: 0;
+  background: none;
+  font-weight: 600;
+  color: gray;
+}
